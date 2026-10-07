@@ -8,7 +8,7 @@ Este repositório contém um projeto de Análise Exploratória de Dados (EDA) de
 
 Os dados utilizados neste projeto foram extraídos diretamente do Portal de Transparência do Governo de Minas Gerais.
 
-* **Fonte Original dos Dados:** [[Portal da Transparência do Estado de Minas Gerais](https://github.com/transparencia-mg/ses_violencia_contra_mulher/tree/main)]
+* **Fonte Original dos Dados:** [Portal da Transparência do Estado de Minas Gerais](https://github.com/transparencia-mg/ses_violencia_contra_mulher/tree/main)
 * **Volume:** ~500.000+ registros consolidados abrangendo o período de 2010 a 2025 (SINAN/SES-MG).
 
 ---
